@@ -6,7 +6,7 @@ const LinkBtn = (props) => {
         <b.container>
             <b.LinkButton to={`${props.link}`}>{ props.btnTxt}</b.LinkButton>
         </b.container>
-
+        //hajdg
      );
 }
  
